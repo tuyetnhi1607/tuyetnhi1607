@@ -1,7 +1,7 @@
 <!-- tuyetnhi1607 -->
 <div class="banner">
   <img src="/assets//DSCF3119.JPG" alt="Image" style="width: 100%; height: 300px; object-fit:contain; object-position:bottom"/>
-  <img style="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&multiline=true&random=false&width=500&height=100&lines=Hi+there%F0%9F%91%8B%2C++I'm+MinD+;I'm+a+front-end+web+developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img style="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&multiline=true&random=false&width=500&height=70&lines=Hi+there%F0%9F%91%8B%2C++I'm+MinD+;I'm+a+front-end+web+developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
