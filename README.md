@@ -1,5 +1,5 @@
 <!-- tuyetnhi1607 -->
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+JUL%E2%9A%A1" alt="Typing SVG" /></a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -57,3 +57,5 @@
   </a>
 </div>
 <div align=center><a href="#" title="tuyetnhi1607"> <img src ="https://github-readme-streak-stats.herokuapp.com?user=tuyetnhi1607&theme=react&hide_border=true&background=FFFFFF00"></a></div>
+
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
