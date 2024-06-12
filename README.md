@@ -1,6 +1,6 @@
 <!-- tuyetnhi1607 -->
 <div style="position:relative;  height: 400px; width:100%; display: flex; justify-content:center; align-items: center; overflow:hidden">
-  <img src="/assets/DSCF3119.JPG" alt="Image" style="position: absolute; z-index: 0; bottom: 0; right:0; width: 100%; height: auto;"/>
+  <img src="/assets/DSCF3119.JPG" alt="Image" style="position: absolute; z-index: 0; bottom: 0; right:0; width: 100%; height: auto; object-fit:cover; object-position:bottom"/>
 <img style="position:absolute; z-index: 1" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&multiline=true&random=false&width=600&height=100&lines=Hi+there%F0%9F%91%8B%2C++I'm+MinD+;I'm+a+front-end+web+developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
