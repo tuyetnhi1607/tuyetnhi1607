@@ -1,5 +1,5 @@
 <!-- tuyetnhi1607 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&random=false&width=435&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+JUL%E2%9A%A1;I%E2%80%99m+a+front-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&random=false&width=435&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+MinD%E2%9A%A1;I%E2%80%99m+a+front-end+developer)](https://git.io/typing-svg)
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
